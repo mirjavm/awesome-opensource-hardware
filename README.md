@@ -55,6 +55,8 @@ A curated list of awesome open source hardware tools.
   * Current mode buck converter on the SKY130 PDK
 * [Analog Basic Blocks/LDO](https://github.com/mabrains/Analog_blocks)
   * Repo that has designs with the following: OTA, BandGap and LDO design on Skywaters 130nm.
+* [MOSAIC_BAG2_fork/generators](https://gitlab.com/mosaic_group/mosaic_BAG/generators)
+  * Repo that has BAG2 technology agnostic generators: 2 stage opamp, tgate, inverter(s),cmfb, mux_2to1, etc.
 
 ## Boards
 
